@@ -8,7 +8,7 @@ This app is used to input basic information about yourself, which can be process
 
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
- <img src="https://github.com/pgupta751/codepath-prework/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2014%20-%202023-01-17%20at%2009.56.42.mp4" width=200><br> OR <img src="Yhttps://github.com/pgupta751/codepath-prework/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2014%20-%202023-01-17%20at%2009.56.42.mp4" width=200><br> 
+ <img src="https://github.com/pgupta751/codepath-prework/blob/main/codepath-prework.gif" width=200><br> OR <img src="https://github.com/pgupta751/codepath-prework/blob/main/codepath-prework.gif" width=200><br> 
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
